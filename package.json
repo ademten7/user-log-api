@@ -1,0 +1,25 @@
+{
+    "name": "user-log-api",
+    "version": "1.0.0",
+    "description": "My user log api",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ademten7/user-log-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ademten7/user-log-api/issues"
+    },
+    "homepage": "https://github.com/ademten7/user-log-api#readme",
+    "dependencies": {
+        "json": "^11.0.0",
+        "server": "^1.0.37"
+    }
+}
